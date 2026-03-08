@@ -1,0 +1,4144 @@
+{
+    "cv": [
+        {
+            "hindi": "का",
+            "trans": "kA"
+        },
+        {
+            "hindi": "कि",
+            "trans": "ki"
+        },
+        {
+            "hindi": "की",
+            "trans": "kI"
+        },
+        {
+            "hindi": "कु",
+            "trans": "ku"
+        },
+        {
+            "hindi": "कू",
+            "trans": "kU"
+        },
+        {
+            "hindi": "कृ",
+            "trans": "kR"
+        },
+        {
+            "hindi": "कॄ",
+            "trans": "kRR"
+        },
+        {
+            "hindi": "कॢ",
+            "trans": "klR"
+        },
+        {
+            "hindi": "कॣ",
+            "trans": "klRR"
+        },
+        {
+            "hindi": "कॆ",
+            "trans": "kE"
+        },
+        {
+            "hindi": "के",
+            "trans": "ke"
+        },
+        {
+            "hindi": "कै",
+            "trans": "kai"
+        },
+        {
+            "hindi": "कॊ",
+            "trans": "kO"
+        },
+        {
+            "hindi": "को",
+            "trans": "ko"
+        },
+        {
+            "hindi": "कौ",
+            "trans": "kau"
+        },
+        {
+            "hindi": "कॅ",
+            "trans": "kaE"
+        },
+        {
+            "hindi": "कॕ",
+            "trans": "kAE"
+        },
+        {
+            "hindi": "कॉ",
+            "trans": "kaO"
+        },
+        {
+            "hindi": "कं",
+            "trans": "kaM"
+        },
+        {
+            "hindi": "कः",
+            "trans": "kaH"
+        },
+        {
+            "hindi": "कँ",
+            "trans": "ka~"
+        },
+        {
+            "hindi": "क्",
+            "trans": "k"
+        },
+        {
+            "hindi": "&क्",
+            "trans": "&k"
+        },
+        {
+            "hindi": "खा",
+            "trans": "khA"
+        },
+        {
+            "hindi": "खि",
+            "trans": "khi"
+        },
+        {
+            "hindi": "खी",
+            "trans": "khI"
+        },
+        {
+            "hindi": "खु",
+            "trans": "khu"
+        },
+        {
+            "hindi": "खू",
+            "trans": "khU"
+        },
+        {
+            "hindi": "खृ",
+            "trans": "khR"
+        },
+        {
+            "hindi": "खॄ",
+            "trans": "khRR"
+        },
+        {
+            "hindi": "खॢ",
+            "trans": "khlR"
+        },
+        {
+            "hindi": "खॣ",
+            "trans": "khlRR"
+        },
+        {
+            "hindi": "खॆ",
+            "trans": "khE"
+        },
+        {
+            "hindi": "खे",
+            "trans": "khe"
+        },
+        {
+            "hindi": "खै",
+            "trans": "khai"
+        },
+        {
+            "hindi": "खॊ",
+            "trans": "khO"
+        },
+        {
+            "hindi": "खो",
+            "trans": "kho"
+        },
+        {
+            "hindi": "खौ",
+            "trans": "khau"
+        },
+        {
+            "hindi": "खॅ",
+            "trans": "khaE"
+        },
+        {
+            "hindi": "खॕ",
+            "trans": "khAE"
+        },
+        {
+            "hindi": "खॉ",
+            "trans": "khaO"
+        },
+        {
+            "hindi": "खं",
+            "trans": "khaM"
+        },
+        {
+            "hindi": "खः",
+            "trans": "khaH"
+        },
+        {
+            "hindi": "खँ",
+            "trans": "kha~"
+        },
+        {
+            "hindi": "ख्",
+            "trans": "kh"
+        },
+        {
+            "hindi": "&ख्",
+            "trans": "&kh"
+        },
+        {
+            "hindi": "गा",
+            "trans": "gA"
+        },
+        {
+            "hindi": "गि",
+            "trans": "gi"
+        },
+        {
+            "hindi": "गी",
+            "trans": "gI"
+        },
+        {
+            "hindi": "गु",
+            "trans": "gu"
+        },
+        {
+            "hindi": "गू",
+            "trans": "gU"
+        },
+        {
+            "hindi": "गृ",
+            "trans": "gR"
+        },
+        {
+            "hindi": "गॄ",
+            "trans": "gRR"
+        },
+        {
+            "hindi": "गॢ",
+            "trans": "glR"
+        },
+        {
+            "hindi": "गॣ",
+            "trans": "glRR"
+        },
+        {
+            "hindi": "गॆ",
+            "trans": "gE"
+        },
+        {
+            "hindi": "गे",
+            "trans": "ge"
+        },
+        {
+            "hindi": "गै",
+            "trans": "gai"
+        },
+        {
+            "hindi": "गॊ",
+            "trans": "gO"
+        },
+        {
+            "hindi": "गो",
+            "trans": "go"
+        },
+        {
+            "hindi": "गौ",
+            "trans": "gau"
+        },
+        {
+            "hindi": "गॅ",
+            "trans": "gaE"
+        },
+        {
+            "hindi": "गॕ",
+            "trans": "gAE"
+        },
+        {
+            "hindi": "गॉ",
+            "trans": "gaO"
+        },
+        {
+            "hindi": "गं",
+            "trans": "gaM"
+        },
+        {
+            "hindi": "गः",
+            "trans": "gaH"
+        },
+        {
+            "hindi": "गँ",
+            "trans": "ga~"
+        },
+        {
+            "hindi": "ग्",
+            "trans": "g"
+        },
+        {
+            "hindi": "&ग्",
+            "trans": "&g"
+        },
+        {
+            "hindi": "घा",
+            "trans": "ghA"
+        },
+        {
+            "hindi": "घि",
+            "trans": "ghi"
+        },
+        {
+            "hindi": "घी",
+            "trans": "ghI"
+        },
+        {
+            "hindi": "घु",
+            "trans": "ghu"
+        },
+        {
+            "hindi": "घू",
+            "trans": "ghU"
+        },
+        {
+            "hindi": "घृ",
+            "trans": "ghR"
+        },
+        {
+            "hindi": "घॄ",
+            "trans": "ghRR"
+        },
+        {
+            "hindi": "घॢ",
+            "trans": "ghlR"
+        },
+        {
+            "hindi": "घॣ",
+            "trans": "ghlRR"
+        },
+        {
+            "hindi": "घॆ",
+            "trans": "ghE"
+        },
+        {
+            "hindi": "घे",
+            "trans": "ghe"
+        },
+        {
+            "hindi": "घै",
+            "trans": "ghai"
+        },
+        {
+            "hindi": "घॊ",
+            "trans": "ghO"
+        },
+        {
+            "hindi": "घो",
+            "trans": "gho"
+        },
+        {
+            "hindi": "घौ",
+            "trans": "ghau"
+        },
+        {
+            "hindi": "घॅ",
+            "trans": "ghaE"
+        },
+        {
+            "hindi": "घॕ",
+            "trans": "ghAE"
+        },
+        {
+            "hindi": "घॉ",
+            "trans": "ghaO"
+        },
+        {
+            "hindi": "घं",
+            "trans": "ghaM"
+        },
+        {
+            "hindi": "घः",
+            "trans": "ghaH"
+        },
+        {
+            "hindi": "घँ",
+            "trans": "gha~"
+        },
+        {
+            "hindi": "घ्",
+            "trans": "gh"
+        },
+        {
+            "hindi": "&घ्",
+            "trans": "&gh"
+        },
+        {
+            "hindi": "ङा",
+            "trans": "GA"
+        },
+        {
+            "hindi": "ङि",
+            "trans": "Gi"
+        },
+        {
+            "hindi": "ङी",
+            "trans": "GI"
+        },
+        {
+            "hindi": "ङु",
+            "trans": "Gu"
+        },
+        {
+            "hindi": "ङू",
+            "trans": "GU"
+        },
+        {
+            "hindi": "ङृ",
+            "trans": "GR"
+        },
+        {
+            "hindi": "ङॄ",
+            "trans": "GRR"
+        },
+        {
+            "hindi": "ङॢ",
+            "trans": "GlR"
+        },
+        {
+            "hindi": "ङॣ",
+            "trans": "GlRR"
+        },
+        {
+            "hindi": "ङॆ",
+            "trans": "GE"
+        },
+        {
+            "hindi": "ङे",
+            "trans": "Ge"
+        },
+        {
+            "hindi": "ङै",
+            "trans": "Gai"
+        },
+        {
+            "hindi": "ङॊ",
+            "trans": "GO"
+        },
+        {
+            "hindi": "ङो",
+            "trans": "Go"
+        },
+        {
+            "hindi": "ङौ",
+            "trans": "Gau"
+        },
+        {
+            "hindi": "ङॅ",
+            "trans": "GaE"
+        },
+        {
+            "hindi": "ङॕ",
+            "trans": "GAE"
+        },
+        {
+            "hindi": "ङॉ",
+            "trans": "GaO"
+        },
+        {
+            "hindi": "ङं",
+            "trans": "GaM"
+        },
+        {
+            "hindi": "ङः",
+            "trans": "GaH"
+        },
+        {
+            "hindi": "ङँ",
+            "trans": "Ga~"
+        },
+        {
+            "hindi": "ङ्",
+            "trans": "G"
+        },
+        {
+            "hindi": "&ङ्",
+            "trans": "&G"
+        },
+        {
+            "hindi": "चा",
+            "trans": "cA"
+        },
+        {
+            "hindi": "चि",
+            "trans": "ci"
+        },
+        {
+            "hindi": "ची",
+            "trans": "cI"
+        },
+        {
+            "hindi": "चु",
+            "trans": "cu"
+        },
+        {
+            "hindi": "चू",
+            "trans": "cU"
+        },
+        {
+            "hindi": "चृ",
+            "trans": "cR"
+        },
+        {
+            "hindi": "चॄ",
+            "trans": "cRR"
+        },
+        {
+            "hindi": "चॢ",
+            "trans": "clR"
+        },
+        {
+            "hindi": "चॣ",
+            "trans": "clRR"
+        },
+        {
+            "hindi": "चॆ",
+            "trans": "cE"
+        },
+        {
+            "hindi": "चे",
+            "trans": "ce"
+        },
+        {
+            "hindi": "चै",
+            "trans": "cai"
+        },
+        {
+            "hindi": "चॊ",
+            "trans": "cO"
+        },
+        {
+            "hindi": "चो",
+            "trans": "co"
+        },
+        {
+            "hindi": "चौ",
+            "trans": "cau"
+        },
+        {
+            "hindi": "चॅ",
+            "trans": "caE"
+        },
+        {
+            "hindi": "चॕ",
+            "trans": "cAE"
+        },
+        {
+            "hindi": "चॉ",
+            "trans": "caO"
+        },
+        {
+            "hindi": "चं",
+            "trans": "caM"
+        },
+        {
+            "hindi": "चः",
+            "trans": "caH"
+        },
+        {
+            "hindi": "चँ",
+            "trans": "ca~"
+        },
+        {
+            "hindi": "च्",
+            "trans": "c"
+        },
+        {
+            "hindi": "&च्",
+            "trans": "&c"
+        },
+        {
+            "hindi": "छा",
+            "trans": "chA"
+        },
+        {
+            "hindi": "छि",
+            "trans": "chi"
+        },
+        {
+            "hindi": "छी",
+            "trans": "chI"
+        },
+        {
+            "hindi": "छु",
+            "trans": "chu"
+        },
+        {
+            "hindi": "छू",
+            "trans": "chU"
+        },
+        {
+            "hindi": "छृ",
+            "trans": "chR"
+        },
+        {
+            "hindi": "छॄ",
+            "trans": "chRR"
+        },
+        {
+            "hindi": "छॢ",
+            "trans": "chlR"
+        },
+        {
+            "hindi": "छॣ",
+            "trans": "chlRR"
+        },
+        {
+            "hindi": "छॆ",
+            "trans": "chE"
+        },
+        {
+            "hindi": "छे",
+            "trans": "che"
+        },
+        {
+            "hindi": "छै",
+            "trans": "chai"
+        },
+        {
+            "hindi": "छॊ",
+            "trans": "chO"
+        },
+        {
+            "hindi": "छो",
+            "trans": "cho"
+        },
+        {
+            "hindi": "छौ",
+            "trans": "chau"
+        },
+        {
+            "hindi": "छॅ",
+            "trans": "chaE"
+        },
+        {
+            "hindi": "छॕ",
+            "trans": "chAE"
+        },
+        {
+            "hindi": "छॉ",
+            "trans": "chaO"
+        },
+        {
+            "hindi": "छं",
+            "trans": "chaM"
+        },
+        {
+            "hindi": "छः",
+            "trans": "chaH"
+        },
+        {
+            "hindi": "छँ",
+            "trans": "cha~"
+        },
+        {
+            "hindi": "छ्",
+            "trans": "ch"
+        },
+        {
+            "hindi": "&छ्",
+            "trans": "&ch"
+        },
+        {
+            "hindi": "जा",
+            "trans": "jA"
+        },
+        {
+            "hindi": "जि",
+            "trans": "ji"
+        },
+        {
+            "hindi": "जी",
+            "trans": "jI"
+        },
+        {
+            "hindi": "जु",
+            "trans": "ju"
+        },
+        {
+            "hindi": "जू",
+            "trans": "jU"
+        },
+        {
+            "hindi": "जृ",
+            "trans": "jR"
+        },
+        {
+            "hindi": "जॄ",
+            "trans": "jRR"
+        },
+        {
+            "hindi": "जॢ",
+            "trans": "jlR"
+        },
+        {
+            "hindi": "जॣ",
+            "trans": "jlRR"
+        },
+        {
+            "hindi": "जॆ",
+            "trans": "jE"
+        },
+        {
+            "hindi": "जे",
+            "trans": "je"
+        },
+        {
+            "hindi": "जै",
+            "trans": "jai"
+        },
+        {
+            "hindi": "जॊ",
+            "trans": "jO"
+        },
+        {
+            "hindi": "जो",
+            "trans": "jo"
+        },
+        {
+            "hindi": "जौ",
+            "trans": "jau"
+        },
+        {
+            "hindi": "जॅ",
+            "trans": "jaE"
+        },
+        {
+            "hindi": "जॕ",
+            "trans": "jAE"
+        },
+        {
+            "hindi": "जॉ",
+            "trans": "jaO"
+        },
+        {
+            "hindi": "जं",
+            "trans": "jaM"
+        },
+        {
+            "hindi": "जः",
+            "trans": "jaH"
+        },
+        {
+            "hindi": "जँ",
+            "trans": "ja~"
+        },
+        {
+            "hindi": "ज्",
+            "trans": "j"
+        },
+        {
+            "hindi": "&ज्",
+            "trans": "&j"
+        },
+        {
+            "hindi": "झा",
+            "trans": "jhA"
+        },
+        {
+            "hindi": "झि",
+            "trans": "jhi"
+        },
+        {
+            "hindi": "झी",
+            "trans": "jhI"
+        },
+        {
+            "hindi": "झु",
+            "trans": "jhu"
+        },
+        {
+            "hindi": "झू",
+            "trans": "jhU"
+        },
+        {
+            "hindi": "झृ",
+            "trans": "jhR"
+        },
+        {
+            "hindi": "झॄ",
+            "trans": "jhRR"
+        },
+        {
+            "hindi": "झॢ",
+            "trans": "jhlR"
+        },
+        {
+            "hindi": "झॣ",
+            "trans": "jhlRR"
+        },
+        {
+            "hindi": "झॆ",
+            "trans": "jhE"
+        },
+        {
+            "hindi": "झे",
+            "trans": "jhe"
+        },
+        {
+            "hindi": "झै",
+            "trans": "jhai"
+        },
+        {
+            "hindi": "झॊ",
+            "trans": "jhO"
+        },
+        {
+            "hindi": "झो",
+            "trans": "jho"
+        },
+        {
+            "hindi": "झौ",
+            "trans": "jhau"
+        },
+        {
+            "hindi": "झॅ",
+            "trans": "jhaE"
+        },
+        {
+            "hindi": "झॕ",
+            "trans": "jhAE"
+        },
+        {
+            "hindi": "झॉ",
+            "trans": "jhaO"
+        },
+        {
+            "hindi": "झं",
+            "trans": "jhaM"
+        },
+        {
+            "hindi": "झः",
+            "trans": "jhaH"
+        },
+        {
+            "hindi": "झँ",
+            "trans": "jha~"
+        },
+        {
+            "hindi": "झ्",
+            "trans": "jh"
+        },
+        {
+            "hindi": "&झ्",
+            "trans": "&jh"
+        },
+        {
+            "hindi": "ञा",
+            "trans": "JA"
+        },
+        {
+            "hindi": "ञि",
+            "trans": "Ji"
+        },
+        {
+            "hindi": "ञी",
+            "trans": "JI"
+        },
+        {
+            "hindi": "ञु",
+            "trans": "Ju"
+        },
+        {
+            "hindi": "ञू",
+            "trans": "JU"
+        },
+        {
+            "hindi": "ञृ",
+            "trans": "JR"
+        },
+        {
+            "hindi": "ञॄ",
+            "trans": "JRR"
+        },
+        {
+            "hindi": "ञॢ",
+            "trans": "JlR"
+        },
+        {
+            "hindi": "ञॣ",
+            "trans": "JlRR"
+        },
+        {
+            "hindi": "ञॆ",
+            "trans": "JE"
+        },
+        {
+            "hindi": "ञे",
+            "trans": "Je"
+        },
+        {
+            "hindi": "ञै",
+            "trans": "Jai"
+        },
+        {
+            "hindi": "ञॊ",
+            "trans": "JO"
+        },
+        {
+            "hindi": "ञो",
+            "trans": "Jo"
+        },
+        {
+            "hindi": "ञौ",
+            "trans": "Jau"
+        },
+        {
+            "hindi": "ञॅ",
+            "trans": "JaE"
+        },
+        {
+            "hindi": "ञॕ",
+            "trans": "JAE"
+        },
+        {
+            "hindi": "ञॉ",
+            "trans": "JaO"
+        },
+        {
+            "hindi": "ञं",
+            "trans": "JaM"
+        },
+        {
+            "hindi": "ञः",
+            "trans": "JaH"
+        },
+        {
+            "hindi": "ञँ",
+            "trans": "Ja~"
+        },
+        {
+            "hindi": "ञ्",
+            "trans": "J"
+        },
+        {
+            "hindi": "&ञ्",
+            "trans": "&J"
+        },
+        {
+            "hindi": "टा",
+            "trans": "TA"
+        },
+        {
+            "hindi": "टि",
+            "trans": "Ti"
+        },
+        {
+            "hindi": "टी",
+            "trans": "TI"
+        },
+        {
+            "hindi": "टु",
+            "trans": "Tu"
+        },
+        {
+            "hindi": "टू",
+            "trans": "TU"
+        },
+        {
+            "hindi": "टृ",
+            "trans": "TR"
+        },
+        {
+            "hindi": "टॄ",
+            "trans": "TRR"
+        },
+        {
+            "hindi": "टॢ",
+            "trans": "TlR"
+        },
+        {
+            "hindi": "टॣ",
+            "trans": "TlRR"
+        },
+        {
+            "hindi": "टॆ",
+            "trans": "TE"
+        },
+        {
+            "hindi": "टे",
+            "trans": "Te"
+        },
+        {
+            "hindi": "टै",
+            "trans": "Tai"
+        },
+        {
+            "hindi": "टॊ",
+            "trans": "TO"
+        },
+        {
+            "hindi": "टो",
+            "trans": "To"
+        },
+        {
+            "hindi": "टौ",
+            "trans": "Tau"
+        },
+        {
+            "hindi": "टॅ",
+            "trans": "TaE"
+        },
+        {
+            "hindi": "टॕ",
+            "trans": "TAE"
+        },
+        {
+            "hindi": "टॉ",
+            "trans": "TaO"
+        },
+        {
+            "hindi": "टं",
+            "trans": "TaM"
+        },
+        {
+            "hindi": "टः",
+            "trans": "TaH"
+        },
+        {
+            "hindi": "टँ",
+            "trans": "Ta~"
+        },
+        {
+            "hindi": "ट्",
+            "trans": "T"
+        },
+        {
+            "hindi": "&ट्",
+            "trans": "&T"
+        },
+        {
+            "hindi": "ठा",
+            "trans": "ThA"
+        },
+        {
+            "hindi": "ठि",
+            "trans": "Thi"
+        },
+        {
+            "hindi": "ठी",
+            "trans": "ThI"
+        },
+        {
+            "hindi": "ठु",
+            "trans": "Thu"
+        },
+        {
+            "hindi": "ठू",
+            "trans": "ThU"
+        },
+        {
+            "hindi": "ठृ",
+            "trans": "ThR"
+        },
+        {
+            "hindi": "ठॄ",
+            "trans": "ThRR"
+        },
+        {
+            "hindi": "ठॢ",
+            "trans": "ThlR"
+        },
+        {
+            "hindi": "ठॣ",
+            "trans": "ThlRR"
+        },
+        {
+            "hindi": "ठॆ",
+            "trans": "ThE"
+        },
+        {
+            "hindi": "ठे",
+            "trans": "The"
+        },
+        {
+            "hindi": "ठै",
+            "trans": "Thai"
+        },
+        {
+            "hindi": "ठॊ",
+            "trans": "ThO"
+        },
+        {
+            "hindi": "ठो",
+            "trans": "Tho"
+        },
+        {
+            "hindi": "ठौ",
+            "trans": "Thau"
+        },
+        {
+            "hindi": "ठॅ",
+            "trans": "ThaE"
+        },
+        {
+            "hindi": "ठॕ",
+            "trans": "ThAE"
+        },
+        {
+            "hindi": "ठॉ",
+            "trans": "ThaO"
+        },
+        {
+            "hindi": "ठं",
+            "trans": "ThaM"
+        },
+        {
+            "hindi": "ठः",
+            "trans": "ThaH"
+        },
+        {
+            "hindi": "ठँ",
+            "trans": "Tha~"
+        },
+        {
+            "hindi": "ठ्",
+            "trans": "Th"
+        },
+        {
+            "hindi": "&ठ्",
+            "trans": "&Th"
+        },
+        {
+            "hindi": "डा",
+            "trans": "DA"
+        },
+        {
+            "hindi": "डि",
+            "trans": "Di"
+        },
+        {
+            "hindi": "डी",
+            "trans": "DI"
+        },
+        {
+            "hindi": "डु",
+            "trans": "Du"
+        },
+        {
+            "hindi": "डू",
+            "trans": "DU"
+        },
+        {
+            "hindi": "डृ",
+            "trans": "DR"
+        },
+        {
+            "hindi": "डॄ",
+            "trans": "DRR"
+        },
+        {
+            "hindi": "डॢ",
+            "trans": "DlR"
+        },
+        {
+            "hindi": "डॣ",
+            "trans": "DlRR"
+        },
+        {
+            "hindi": "डॆ",
+            "trans": "DE"
+        },
+        {
+            "hindi": "डे",
+            "trans": "De"
+        },
+        {
+            "hindi": "डै",
+            "trans": "Dai"
+        },
+        {
+            "hindi": "डॊ",
+            "trans": "DO"
+        },
+        {
+            "hindi": "डो",
+            "trans": "Do"
+        },
+        {
+            "hindi": "डौ",
+            "trans": "Dau"
+        },
+        {
+            "hindi": "डॅ",
+            "trans": "DaE"
+        },
+        {
+            "hindi": "डॕ",
+            "trans": "DAE"
+        },
+        {
+            "hindi": "डॉ",
+            "trans": "DaO"
+        },
+        {
+            "hindi": "डं",
+            "trans": "DaM"
+        },
+        {
+            "hindi": "डः",
+            "trans": "DaH"
+        },
+        {
+            "hindi": "डँ",
+            "trans": "Da~"
+        },
+        {
+            "hindi": "ड्",
+            "trans": "D"
+        },
+        {
+            "hindi": "&ड्",
+            "trans": "&D"
+        },
+        {
+            "hindi": "ढा",
+            "trans": "DhA"
+        },
+        {
+            "hindi": "ढि",
+            "trans": "Dhi"
+        },
+        {
+            "hindi": "ढी",
+            "trans": "DhI"
+        },
+        {
+            "hindi": "ढु",
+            "trans": "Dhu"
+        },
+        {
+            "hindi": "ढू",
+            "trans": "DhU"
+        },
+        {
+            "hindi": "ढृ",
+            "trans": "DhR"
+        },
+        {
+            "hindi": "ढॄ",
+            "trans": "DhRR"
+        },
+        {
+            "hindi": "ढॢ",
+            "trans": "DhlR"
+        },
+        {
+            "hindi": "ढॣ",
+            "trans": "DhlRR"
+        },
+        {
+            "hindi": "ढॆ",
+            "trans": "DhE"
+        },
+        {
+            "hindi": "ढे",
+            "trans": "Dhe"
+        },
+        {
+            "hindi": "ढै",
+            "trans": "Dhai"
+        },
+        {
+            "hindi": "ढॊ",
+            "trans": "DhO"
+        },
+        {
+            "hindi": "ढो",
+            "trans": "Dho"
+        },
+        {
+            "hindi": "ढौ",
+            "trans": "Dhau"
+        },
+        {
+            "hindi": "ढॅ",
+            "trans": "DhaE"
+        },
+        {
+            "hindi": "ढॕ",
+            "trans": "DhAE"
+        },
+        {
+            "hindi": "ढॉ",
+            "trans": "DhaO"
+        },
+        {
+            "hindi": "ढं",
+            "trans": "DhaM"
+        },
+        {
+            "hindi": "ढः",
+            "trans": "DhaH"
+        },
+        {
+            "hindi": "ढँ",
+            "trans": "Dha~"
+        },
+        {
+            "hindi": "ढ्",
+            "trans": "Dh"
+        },
+        {
+            "hindi": "&ढ्",
+            "trans": "&Dh"
+        },
+        {
+            "hindi": "णा",
+            "trans": "NA"
+        },
+        {
+            "hindi": "णि",
+            "trans": "Ni"
+        },
+        {
+            "hindi": "णी",
+            "trans": "NI"
+        },
+        {
+            "hindi": "णु",
+            "trans": "Nu"
+        },
+        {
+            "hindi": "णू",
+            "trans": "NU"
+        },
+        {
+            "hindi": "णृ",
+            "trans": "NR"
+        },
+        {
+            "hindi": "णॄ",
+            "trans": "NRR"
+        },
+        {
+            "hindi": "णॢ",
+            "trans": "NlR"
+        },
+        {
+            "hindi": "णॣ",
+            "trans": "NlRR"
+        },
+        {
+            "hindi": "णॆ",
+            "trans": "NE"
+        },
+        {
+            "hindi": "णे",
+            "trans": "Ne"
+        },
+        {
+            "hindi": "णै",
+            "trans": "Nai"
+        },
+        {
+            "hindi": "णॊ",
+            "trans": "NO"
+        },
+        {
+            "hindi": "णो",
+            "trans": "No"
+        },
+        {
+            "hindi": "णौ",
+            "trans": "Nau"
+        },
+        {
+            "hindi": "णॅ",
+            "trans": "NaE"
+        },
+        {
+            "hindi": "णॕ",
+            "trans": "NAE"
+        },
+        {
+            "hindi": "णॉ",
+            "trans": "NaO"
+        },
+        {
+            "hindi": "णं",
+            "trans": "NaM"
+        },
+        {
+            "hindi": "णः",
+            "trans": "NaH"
+        },
+        {
+            "hindi": "णँ",
+            "trans": "Na~"
+        },
+        {
+            "hindi": "ण्",
+            "trans": "N"
+        },
+        {
+            "hindi": "&ण्",
+            "trans": "&N"
+        },
+        {
+            "hindi": "ता",
+            "trans": "tA"
+        },
+        {
+            "hindi": "ति",
+            "trans": "ti"
+        },
+        {
+            "hindi": "ती",
+            "trans": "tI"
+        },
+        {
+            "hindi": "तु",
+            "trans": "tu"
+        },
+        {
+            "hindi": "तू",
+            "trans": "tU"
+        },
+        {
+            "hindi": "तृ",
+            "trans": "tR"
+        },
+        {
+            "hindi": "तॄ",
+            "trans": "tRR"
+        },
+        {
+            "hindi": "तॢ",
+            "trans": "tlR"
+        },
+        {
+            "hindi": "तॣ",
+            "trans": "tlRR"
+        },
+        {
+            "hindi": "तॆ",
+            "trans": "tE"
+        },
+        {
+            "hindi": "ते",
+            "trans": "te"
+        },
+        {
+            "hindi": "तै",
+            "trans": "tai"
+        },
+        {
+            "hindi": "तॊ",
+            "trans": "tO"
+        },
+        {
+            "hindi": "तो",
+            "trans": "to"
+        },
+        {
+            "hindi": "तौ",
+            "trans": "tau"
+        },
+        {
+            "hindi": "तॅ",
+            "trans": "taE"
+        },
+        {
+            "hindi": "तॕ",
+            "trans": "tAE"
+        },
+        {
+            "hindi": "तॉ",
+            "trans": "taO"
+        },
+        {
+            "hindi": "तं",
+            "trans": "taM"
+        },
+        {
+            "hindi": "तः",
+            "trans": "taH"
+        },
+        {
+            "hindi": "तँ",
+            "trans": "ta~"
+        },
+        {
+            "hindi": "त्",
+            "trans": "t"
+        },
+        {
+            "hindi": "&त्",
+            "trans": "&t"
+        },
+        {
+            "hindi": "था",
+            "trans": "thA"
+        },
+        {
+            "hindi": "थि",
+            "trans": "thi"
+        },
+        {
+            "hindi": "थी",
+            "trans": "thI"
+        },
+        {
+            "hindi": "थु",
+            "trans": "thu"
+        },
+        {
+            "hindi": "थू",
+            "trans": "thU"
+        },
+        {
+            "hindi": "थृ",
+            "trans": "thR"
+        },
+        {
+            "hindi": "थॄ",
+            "trans": "thRR"
+        },
+        {
+            "hindi": "थॢ",
+            "trans": "thlR"
+        },
+        {
+            "hindi": "थॣ",
+            "trans": "thlRR"
+        },
+        {
+            "hindi": "थॆ",
+            "trans": "thE"
+        },
+        {
+            "hindi": "थे",
+            "trans": "the"
+        },
+        {
+            "hindi": "थै",
+            "trans": "thai"
+        },
+        {
+            "hindi": "थॊ",
+            "trans": "thO"
+        },
+        {
+            "hindi": "थो",
+            "trans": "tho"
+        },
+        {
+            "hindi": "थौ",
+            "trans": "thau"
+        },
+        {
+            "hindi": "थॅ",
+            "trans": "thaE"
+        },
+        {
+            "hindi": "थॕ",
+            "trans": "thAE"
+        },
+        {
+            "hindi": "थॉ",
+            "trans": "thaO"
+        },
+        {
+            "hindi": "थं",
+            "trans": "thaM"
+        },
+        {
+            "hindi": "थः",
+            "trans": "thaH"
+        },
+        {
+            "hindi": "थँ",
+            "trans": "tha~"
+        },
+        {
+            "hindi": "थ्",
+            "trans": "th"
+        },
+        {
+            "hindi": "&थ्",
+            "trans": "&th"
+        },
+        {
+            "hindi": "दा",
+            "trans": "dA"
+        },
+        {
+            "hindi": "दि",
+            "trans": "di"
+        },
+        {
+            "hindi": "दी",
+            "trans": "dI"
+        },
+        {
+            "hindi": "दु",
+            "trans": "du"
+        },
+        {
+            "hindi": "दू",
+            "trans": "dU"
+        },
+        {
+            "hindi": "दृ",
+            "trans": "dR"
+        },
+        {
+            "hindi": "दॄ",
+            "trans": "dRR"
+        },
+        {
+            "hindi": "दॢ",
+            "trans": "dlR"
+        },
+        {
+            "hindi": "दॣ",
+            "trans": "dlRR"
+        },
+        {
+            "hindi": "दॆ",
+            "trans": "dE"
+        },
+        {
+            "hindi": "दे",
+            "trans": "de"
+        },
+        {
+            "hindi": "दै",
+            "trans": "dai"
+        },
+        {
+            "hindi": "दॊ",
+            "trans": "dO"
+        },
+        {
+            "hindi": "दो",
+            "trans": "do"
+        },
+        {
+            "hindi": "दौ",
+            "trans": "dau"
+        },
+        {
+            "hindi": "दॅ",
+            "trans": "daE"
+        },
+        {
+            "hindi": "दॕ",
+            "trans": "dAE"
+        },
+        {
+            "hindi": "दॉ",
+            "trans": "daO"
+        },
+        {
+            "hindi": "दं",
+            "trans": "daM"
+        },
+        {
+            "hindi": "दः",
+            "trans": "daH"
+        },
+        {
+            "hindi": "दँ",
+            "trans": "da~"
+        },
+        {
+            "hindi": "द्",
+            "trans": "d"
+        },
+        {
+            "hindi": "&द्",
+            "trans": "&d"
+        },
+        {
+            "hindi": "धा",
+            "trans": "dhA"
+        },
+        {
+            "hindi": "धि",
+            "trans": "dhi"
+        },
+        {
+            "hindi": "धी",
+            "trans": "dhI"
+        },
+        {
+            "hindi": "धु",
+            "trans": "dhu"
+        },
+        {
+            "hindi": "धू",
+            "trans": "dhU"
+        },
+        {
+            "hindi": "धृ",
+            "trans": "dhR"
+        },
+        {
+            "hindi": "धॄ",
+            "trans": "dhRR"
+        },
+        {
+            "hindi": "धॢ",
+            "trans": "dhlR"
+        },
+        {
+            "hindi": "धॣ",
+            "trans": "dhlRR"
+        },
+        {
+            "hindi": "धॆ",
+            "trans": "dhE"
+        },
+        {
+            "hindi": "धे",
+            "trans": "dhe"
+        },
+        {
+            "hindi": "धै",
+            "trans": "dhai"
+        },
+        {
+            "hindi": "धॊ",
+            "trans": "dhO"
+        },
+        {
+            "hindi": "धो",
+            "trans": "dho"
+        },
+        {
+            "hindi": "धौ",
+            "trans": "dhau"
+        },
+        {
+            "hindi": "धॅ",
+            "trans": "dhaE"
+        },
+        {
+            "hindi": "धॕ",
+            "trans": "dhAE"
+        },
+        {
+            "hindi": "धॉ",
+            "trans": "dhaO"
+        },
+        {
+            "hindi": "धं",
+            "trans": "dhaM"
+        },
+        {
+            "hindi": "धः",
+            "trans": "dhaH"
+        },
+        {
+            "hindi": "धँ",
+            "trans": "dha~"
+        },
+        {
+            "hindi": "ध्",
+            "trans": "dh"
+        },
+        {
+            "hindi": "&ध्",
+            "trans": "&dh"
+        },
+        {
+            "hindi": "ना",
+            "trans": "nA"
+        },
+        {
+            "hindi": "नि",
+            "trans": "ni"
+        },
+        {
+            "hindi": "नी",
+            "trans": "nI"
+        },
+        {
+            "hindi": "नु",
+            "trans": "nu"
+        },
+        {
+            "hindi": "नू",
+            "trans": "nU"
+        },
+        {
+            "hindi": "नृ",
+            "trans": "nR"
+        },
+        {
+            "hindi": "नॄ",
+            "trans": "nRR"
+        },
+        {
+            "hindi": "नॢ",
+            "trans": "nlR"
+        },
+        {
+            "hindi": "नॣ",
+            "trans": "nlRR"
+        },
+        {
+            "hindi": "नॆ",
+            "trans": "nE"
+        },
+        {
+            "hindi": "ने",
+            "trans": "ne"
+        },
+        {
+            "hindi": "नै",
+            "trans": "nai"
+        },
+        {
+            "hindi": "नॊ",
+            "trans": "nO"
+        },
+        {
+            "hindi": "नो",
+            "trans": "no"
+        },
+        {
+            "hindi": "नौ",
+            "trans": "nau"
+        },
+        {
+            "hindi": "नॅ",
+            "trans": "naE"
+        },
+        {
+            "hindi": "नॕ",
+            "trans": "nAE"
+        },
+        {
+            "hindi": "नॉ",
+            "trans": "naO"
+        },
+        {
+            "hindi": "नं",
+            "trans": "naM"
+        },
+        {
+            "hindi": "नः",
+            "trans": "naH"
+        },
+        {
+            "hindi": "नँ",
+            "trans": "na~"
+        },
+        {
+            "hindi": "न्",
+            "trans": "n"
+        },
+        {
+            "hindi": "&न्",
+            "trans": "&n"
+        },
+        {
+            "hindi": "पा",
+            "trans": "pA"
+        },
+        {
+            "hindi": "पि",
+            "trans": "pi"
+        },
+        {
+            "hindi": "पी",
+            "trans": "pI"
+        },
+        {
+            "hindi": "पु",
+            "trans": "pu"
+        },
+        {
+            "hindi": "पू",
+            "trans": "pU"
+        },
+        {
+            "hindi": "पृ",
+            "trans": "pR"
+        },
+        {
+            "hindi": "पॄ",
+            "trans": "pRR"
+        },
+        {
+            "hindi": "पॢ",
+            "trans": "plR"
+        },
+        {
+            "hindi": "पॣ",
+            "trans": "plRR"
+        },
+        {
+            "hindi": "पॆ",
+            "trans": "pE"
+        },
+        {
+            "hindi": "पे",
+            "trans": "pe"
+        },
+        {
+            "hindi": "पै",
+            "trans": "pai"
+        },
+        {
+            "hindi": "पॊ",
+            "trans": "pO"
+        },
+        {
+            "hindi": "पो",
+            "trans": "po"
+        },
+        {
+            "hindi": "पौ",
+            "trans": "pau"
+        },
+        {
+            "hindi": "पॅ",
+            "trans": "paE"
+        },
+        {
+            "hindi": "पॕ",
+            "trans": "pAE"
+        },
+        {
+            "hindi": "पॉ",
+            "trans": "paO"
+        },
+        {
+            "hindi": "पं",
+            "trans": "paM"
+        },
+        {
+            "hindi": "पः",
+            "trans": "paH"
+        },
+        {
+            "hindi": "पँ",
+            "trans": "pa~"
+        },
+        {
+            "hindi": "प्",
+            "trans": "p"
+        },
+        {
+            "hindi": "&प्",
+            "trans": "&p"
+        },
+        {
+            "hindi": "फा",
+            "trans": "phA"
+        },
+        {
+            "hindi": "फि",
+            "trans": "phi"
+        },
+        {
+            "hindi": "फी",
+            "trans": "phI"
+        },
+        {
+            "hindi": "फु",
+            "trans": "phu"
+        },
+        {
+            "hindi": "फू",
+            "trans": "phU"
+        },
+        {
+            "hindi": "फृ",
+            "trans": "phR"
+        },
+        {
+            "hindi": "फॄ",
+            "trans": "phRR"
+        },
+        {
+            "hindi": "फॢ",
+            "trans": "phlR"
+        },
+        {
+            "hindi": "फॣ",
+            "trans": "phlRR"
+        },
+        {
+            "hindi": "फॆ",
+            "trans": "phE"
+        },
+        {
+            "hindi": "फे",
+            "trans": "phe"
+        },
+        {
+            "hindi": "फै",
+            "trans": "phai"
+        },
+        {
+            "hindi": "फॊ",
+            "trans": "phO"
+        },
+        {
+            "hindi": "फो",
+            "trans": "pho"
+        },
+        {
+            "hindi": "फौ",
+            "trans": "phau"
+        },
+        {
+            "hindi": "फॅ",
+            "trans": "phaE"
+        },
+        {
+            "hindi": "फॕ",
+            "trans": "phAE"
+        },
+        {
+            "hindi": "फॉ",
+            "trans": "phaO"
+        },
+        {
+            "hindi": "फं",
+            "trans": "phaM"
+        },
+        {
+            "hindi": "फः",
+            "trans": "phaH"
+        },
+        {
+            "hindi": "फँ",
+            "trans": "pha~"
+        },
+        {
+            "hindi": "फ्",
+            "trans": "ph"
+        },
+        {
+            "hindi": "&फ्",
+            "trans": "&ph"
+        },
+        {
+            "hindi": "बा",
+            "trans": "bA"
+        },
+        {
+            "hindi": "बि",
+            "trans": "bi"
+        },
+        {
+            "hindi": "बी",
+            "trans": "bI"
+        },
+        {
+            "hindi": "बु",
+            "trans": "bu"
+        },
+        {
+            "hindi": "बू",
+            "trans": "bU"
+        },
+        {
+            "hindi": "बृ",
+            "trans": "bR"
+        },
+        {
+            "hindi": "बॄ",
+            "trans": "bRR"
+        },
+        {
+            "hindi": "बॢ",
+            "trans": "blR"
+        },
+        {
+            "hindi": "बॣ",
+            "trans": "blRR"
+        },
+        {
+            "hindi": "बॆ",
+            "trans": "bE"
+        },
+        {
+            "hindi": "बे",
+            "trans": "be"
+        },
+        {
+            "hindi": "बै",
+            "trans": "bai"
+        },
+        {
+            "hindi": "बॊ",
+            "trans": "bO"
+        },
+        {
+            "hindi": "बो",
+            "trans": "bo"
+        },
+        {
+            "hindi": "बौ",
+            "trans": "bau"
+        },
+        {
+            "hindi": "बॅ",
+            "trans": "baE"
+        },
+        {
+            "hindi": "बॕ",
+            "trans": "bAE"
+        },
+        {
+            "hindi": "बॉ",
+            "trans": "baO"
+        },
+        {
+            "hindi": "बं",
+            "trans": "baM"
+        },
+        {
+            "hindi": "बः",
+            "trans": "baH"
+        },
+        {
+            "hindi": "बँ",
+            "trans": "ba~"
+        },
+        {
+            "hindi": "ब्",
+            "trans": "b"
+        },
+        {
+            "hindi": "&ब्",
+            "trans": "&b"
+        },
+        {
+            "hindi": "भा",
+            "trans": "bhA"
+        },
+        {
+            "hindi": "भि",
+            "trans": "bhi"
+        },
+        {
+            "hindi": "भी",
+            "trans": "bhI"
+        },
+        {
+            "hindi": "भु",
+            "trans": "bhu"
+        },
+        {
+            "hindi": "भू",
+            "trans": "bhU"
+        },
+        {
+            "hindi": "भृ",
+            "trans": "bhR"
+        },
+        {
+            "hindi": "भॄ",
+            "trans": "bhRR"
+        },
+        {
+            "hindi": "भॢ",
+            "trans": "bhlR"
+        },
+        {
+            "hindi": "भॣ",
+            "trans": "bhlRR"
+        },
+        {
+            "hindi": "भॆ",
+            "trans": "bhE"
+        },
+        {
+            "hindi": "भे",
+            "trans": "bhe"
+        },
+        {
+            "hindi": "भै",
+            "trans": "bhai"
+        },
+        {
+            "hindi": "भॊ",
+            "trans": "bhO"
+        },
+        {
+            "hindi": "भो",
+            "trans": "bho"
+        },
+        {
+            "hindi": "भौ",
+            "trans": "bhau"
+        },
+        {
+            "hindi": "भॅ",
+            "trans": "bhaE"
+        },
+        {
+            "hindi": "भॕ",
+            "trans": "bhAE"
+        },
+        {
+            "hindi": "भॉ",
+            "trans": "bhaO"
+        },
+        {
+            "hindi": "भं",
+            "trans": "bhaM"
+        },
+        {
+            "hindi": "भः",
+            "trans": "bhaH"
+        },
+        {
+            "hindi": "भँ",
+            "trans": "bha~"
+        },
+        {
+            "hindi": "भ्",
+            "trans": "bh"
+        },
+        {
+            "hindi": "&भ्",
+            "trans": "&bh"
+        },
+        {
+            "hindi": "मा",
+            "trans": "mA"
+        },
+        {
+            "hindi": "मि",
+            "trans": "mi"
+        },
+        {
+            "hindi": "मी",
+            "trans": "mI"
+        },
+        {
+            "hindi": "मु",
+            "trans": "mu"
+        },
+        {
+            "hindi": "मू",
+            "trans": "mU"
+        },
+        {
+            "hindi": "मृ",
+            "trans": "mR"
+        },
+        {
+            "hindi": "मॄ",
+            "trans": "mRR"
+        },
+        {
+            "hindi": "मॢ",
+            "trans": "mlR"
+        },
+        {
+            "hindi": "मॣ",
+            "trans": "mlRR"
+        },
+        {
+            "hindi": "मॆ",
+            "trans": "mE"
+        },
+        {
+            "hindi": "मे",
+            "trans": "me"
+        },
+        {
+            "hindi": "मै",
+            "trans": "mai"
+        },
+        {
+            "hindi": "मॊ",
+            "trans": "mO"
+        },
+        {
+            "hindi": "मो",
+            "trans": "mo"
+        },
+        {
+            "hindi": "मौ",
+            "trans": "mau"
+        },
+        {
+            "hindi": "मॅ",
+            "trans": "maE"
+        },
+        {
+            "hindi": "मॕ",
+            "trans": "mAE"
+        },
+        {
+            "hindi": "मॉ",
+            "trans": "maO"
+        },
+        {
+            "hindi": "मं",
+            "trans": "maM"
+        },
+        {
+            "hindi": "मः",
+            "trans": "maH"
+        },
+        {
+            "hindi": "मँ",
+            "trans": "ma~"
+        },
+        {
+            "hindi": "म्",
+            "trans": "m"
+        },
+        {
+            "hindi": "&म्",
+            "trans": "&m"
+        },
+        {
+            "hindi": "या",
+            "trans": "yA"
+        },
+        {
+            "hindi": "यि",
+            "trans": "yi"
+        },
+        {
+            "hindi": "यी",
+            "trans": "yI"
+        },
+        {
+            "hindi": "यु",
+            "trans": "yu"
+        },
+        {
+            "hindi": "यू",
+            "trans": "yU"
+        },
+        {
+            "hindi": "यृ",
+            "trans": "yR"
+        },
+        {
+            "hindi": "यॄ",
+            "trans": "yRR"
+        },
+        {
+            "hindi": "यॢ",
+            "trans": "ylR"
+        },
+        {
+            "hindi": "यॣ",
+            "trans": "ylRR"
+        },
+        {
+            "hindi": "यॆ",
+            "trans": "yE"
+        },
+        {
+            "hindi": "ये",
+            "trans": "ye"
+        },
+        {
+            "hindi": "यै",
+            "trans": "yai"
+        },
+        {
+            "hindi": "यॊ",
+            "trans": "yO"
+        },
+        {
+            "hindi": "यो",
+            "trans": "yo"
+        },
+        {
+            "hindi": "यौ",
+            "trans": "yau"
+        },
+        {
+            "hindi": "यॅ",
+            "trans": "yaE"
+        },
+        {
+            "hindi": "यॕ",
+            "trans": "yAE"
+        },
+        {
+            "hindi": "यॉ",
+            "trans": "yaO"
+        },
+        {
+            "hindi": "यं",
+            "trans": "yaM"
+        },
+        {
+            "hindi": "यः",
+            "trans": "yaH"
+        },
+        {
+            "hindi": "यँ",
+            "trans": "ya~"
+        },
+        {
+            "hindi": "य्",
+            "trans": "y"
+        },
+        {
+            "hindi": "&य्",
+            "trans": "&y"
+        },
+        {
+            "hindi": "रा",
+            "trans": "rA"
+        },
+        {
+            "hindi": "रि",
+            "trans": "ri"
+        },
+        {
+            "hindi": "री",
+            "trans": "rI"
+        },
+        {
+            "hindi": "रु",
+            "trans": "ru"
+        },
+        {
+            "hindi": "रू",
+            "trans": "rU"
+        },
+        {
+            "hindi": "रृ",
+            "trans": "rR"
+        },
+        {
+            "hindi": "रॄ",
+            "trans": "rRR"
+        },
+        {
+            "hindi": "रॢ",
+            "trans": "rlR"
+        },
+        {
+            "hindi": "रॣ",
+            "trans": "rlRR"
+        },
+        {
+            "hindi": "रॆ",
+            "trans": "rE"
+        },
+        {
+            "hindi": "रे",
+            "trans": "re"
+        },
+        {
+            "hindi": "रै",
+            "trans": "rai"
+        },
+        {
+            "hindi": "रॊ",
+            "trans": "rO"
+        },
+        {
+            "hindi": "रो",
+            "trans": "ro"
+        },
+        {
+            "hindi": "रौ",
+            "trans": "rau"
+        },
+        {
+            "hindi": "रॅ",
+            "trans": "raE"
+        },
+        {
+            "hindi": "रॕ",
+            "trans": "rAE"
+        },
+        {
+            "hindi": "रॉ",
+            "trans": "raO"
+        },
+        {
+            "hindi": "रं",
+            "trans": "raM"
+        },
+        {
+            "hindi": "रः",
+            "trans": "raH"
+        },
+        {
+            "hindi": "रँ",
+            "trans": "ra~"
+        },
+        {
+            "hindi": "र्",
+            "trans": "r"
+        },
+        {
+            "hindi": "&र्",
+            "trans": "&r"
+        },
+        {
+            "hindi": "ला",
+            "trans": "lA"
+        },
+        {
+            "hindi": "लि",
+            "trans": "li"
+        },
+        {
+            "hindi": "ली",
+            "trans": "lI"
+        },
+        {
+            "hindi": "लु",
+            "trans": "lu"
+        },
+        {
+            "hindi": "लू",
+            "trans": "lU"
+        },
+        {
+            "hindi": "ऌ",
+            "trans": "lR"
+        },
+        {
+            "hindi": "ॡ",
+            "trans": "lRR"
+        },
+        {
+            "hindi": "लॢ",
+            "trans": "llR"
+        },
+        {
+            "hindi": "लॣ",
+            "trans": "llRR"
+        },
+        {
+            "hindi": "लॆ",
+            "trans": "lE"
+        },
+        {
+            "hindi": "ले",
+            "trans": "le"
+        },
+        {
+            "hindi": "लै",
+            "trans": "lai"
+        },
+        {
+            "hindi": "लॊ",
+            "trans": "lO"
+        },
+        {
+            "hindi": "लो",
+            "trans": "lo"
+        },
+        {
+            "hindi": "लौ",
+            "trans": "lau"
+        },
+        {
+            "hindi": "लॅ",
+            "trans": "laE"
+        },
+        {
+            "hindi": "लॕ",
+            "trans": "lAE"
+        },
+        {
+            "hindi": "लॉ",
+            "trans": "laO"
+        },
+        {
+            "hindi": "लं",
+            "trans": "laM"
+        },
+        {
+            "hindi": "लः",
+            "trans": "laH"
+        },
+        {
+            "hindi": "लँ",
+            "trans": "la~"
+        },
+        {
+            "hindi": "ल्",
+            "trans": "l"
+        },
+        {
+            "hindi": "&ल्",
+            "trans": "&l"
+        },
+        {
+            "hindi": "वा",
+            "trans": "vA"
+        },
+        {
+            "hindi": "वि",
+            "trans": "vi"
+        },
+        {
+            "hindi": "वी",
+            "trans": "vI"
+        },
+        {
+            "hindi": "वु",
+            "trans": "vu"
+        },
+        {
+            "hindi": "वू",
+            "trans": "vU"
+        },
+        {
+            "hindi": "वृ",
+            "trans": "vR"
+        },
+        {
+            "hindi": "वॄ",
+            "trans": "vRR"
+        },
+        {
+            "hindi": "वॢ",
+            "trans": "vlR"
+        },
+        {
+            "hindi": "वॣ",
+            "trans": "vlRR"
+        },
+        {
+            "hindi": "वॆ",
+            "trans": "vE"
+        },
+        {
+            "hindi": "वे",
+            "trans": "ve"
+        },
+        {
+            "hindi": "वै",
+            "trans": "vai"
+        },
+        {
+            "hindi": "वॊ",
+            "trans": "vO"
+        },
+        {
+            "hindi": "वो",
+            "trans": "vo"
+        },
+        {
+            "hindi": "वौ",
+            "trans": "vau"
+        },
+        {
+            "hindi": "वॅ",
+            "trans": "vaE"
+        },
+        {
+            "hindi": "वॕ",
+            "trans": "vAE"
+        },
+        {
+            "hindi": "वॉ",
+            "trans": "vaO"
+        },
+        {
+            "hindi": "वं",
+            "trans": "vaM"
+        },
+        {
+            "hindi": "वः",
+            "trans": "vaH"
+        },
+        {
+            "hindi": "वँ",
+            "trans": "va~"
+        },
+        {
+            "hindi": "व्",
+            "trans": "v"
+        },
+        {
+            "hindi": "&व्",
+            "trans": "&v"
+        },
+        {
+            "hindi": "शा",
+            "trans": "zA"
+        },
+        {
+            "hindi": "शि",
+            "trans": "zi"
+        },
+        {
+            "hindi": "शी",
+            "trans": "zI"
+        },
+        {
+            "hindi": "शु",
+            "trans": "zu"
+        },
+        {
+            "hindi": "शू",
+            "trans": "zU"
+        },
+        {
+            "hindi": "शृ",
+            "trans": "zR"
+        },
+        {
+            "hindi": "शॄ",
+            "trans": "zRR"
+        },
+        {
+            "hindi": "शॢ",
+            "trans": "zlR"
+        },
+        {
+            "hindi": "शॣ",
+            "trans": "zlRR"
+        },
+        {
+            "hindi": "शॆ",
+            "trans": "zE"
+        },
+        {
+            "hindi": "शे",
+            "trans": "ze"
+        },
+        {
+            "hindi": "शै",
+            "trans": "zai"
+        },
+        {
+            "hindi": "शॊ",
+            "trans": "zO"
+        },
+        {
+            "hindi": "शो",
+            "trans": "zo"
+        },
+        {
+            "hindi": "शौ",
+            "trans": "zau"
+        },
+        {
+            "hindi": "शॅ",
+            "trans": "zaE"
+        },
+        {
+            "hindi": "शॕ",
+            "trans": "zAE"
+        },
+        {
+            "hindi": "शॉ",
+            "trans": "zaO"
+        },
+        {
+            "hindi": "शं",
+            "trans": "zaM"
+        },
+        {
+            "hindi": "शः",
+            "trans": "zaH"
+        },
+        {
+            "hindi": "शँ",
+            "trans": "za~"
+        },
+        {
+            "hindi": "श्",
+            "trans": "z"
+        },
+        {
+            "hindi": "&श्",
+            "trans": "&z"
+        },
+        {
+            "hindi": "षा",
+            "trans": "SA"
+        },
+        {
+            "hindi": "षि",
+            "trans": "Si"
+        },
+        {
+            "hindi": "षी",
+            "trans": "SI"
+        },
+        {
+            "hindi": "षु",
+            "trans": "Su"
+        },
+        {
+            "hindi": "षू",
+            "trans": "SU"
+        },
+        {
+            "hindi": "षृ",
+            "trans": "SR"
+        },
+        {
+            "hindi": "षॄ",
+            "trans": "SRR"
+        },
+        {
+            "hindi": "षॢ",
+            "trans": "SlR"
+        },
+        {
+            "hindi": "षॣ",
+            "trans": "SlRR"
+        },
+        {
+            "hindi": "षॆ",
+            "trans": "SE"
+        },
+        {
+            "hindi": "षे",
+            "trans": "Se"
+        },
+        {
+            "hindi": "षै",
+            "trans": "Sai"
+        },
+        {
+            "hindi": "षॊ",
+            "trans": "SO"
+        },
+        {
+            "hindi": "षो",
+            "trans": "So"
+        },
+        {
+            "hindi": "षौ",
+            "trans": "Sau"
+        },
+        {
+            "hindi": "षॅ",
+            "trans": "SaE"
+        },
+        {
+            "hindi": "षॕ",
+            "trans": "SAE"
+        },
+        {
+            "hindi": "षॉ",
+            "trans": "SaO"
+        },
+        {
+            "hindi": "षं",
+            "trans": "SaM"
+        },
+        {
+            "hindi": "षः",
+            "trans": "SaH"
+        },
+        {
+            "hindi": "षँ",
+            "trans": "Sa~"
+        },
+        {
+            "hindi": "ष्",
+            "trans": "S"
+        },
+        {
+            "hindi": "&ष्",
+            "trans": "&S"
+        },
+        {
+            "hindi": "सा",
+            "trans": "sA"
+        },
+        {
+            "hindi": "सि",
+            "trans": "si"
+        },
+        {
+            "hindi": "सी",
+            "trans": "sI"
+        },
+        {
+            "hindi": "सु",
+            "trans": "su"
+        },
+        {
+            "hindi": "सू",
+            "trans": "sU"
+        },
+        {
+            "hindi": "सृ",
+            "trans": "sR"
+        },
+        {
+            "hindi": "सॄ",
+            "trans": "sRR"
+        },
+        {
+            "hindi": "सॢ",
+            "trans": "slR"
+        },
+        {
+            "hindi": "सॣ",
+            "trans": "slRR"
+        },
+        {
+            "hindi": "सॆ",
+            "trans": "sE"
+        },
+        {
+            "hindi": "से",
+            "trans": "se"
+        },
+        {
+            "hindi": "सै",
+            "trans": "sai"
+        },
+        {
+            "hindi": "सॊ",
+            "trans": "sO"
+        },
+        {
+            "hindi": "सो",
+            "trans": "so"
+        },
+        {
+            "hindi": "सौ",
+            "trans": "sau"
+        },
+        {
+            "hindi": "सॅ",
+            "trans": "saE"
+        },
+        {
+            "hindi": "सॕ",
+            "trans": "sAE"
+        },
+        {
+            "hindi": "सॉ",
+            "trans": "saO"
+        },
+        {
+            "hindi": "सं",
+            "trans": "saM"
+        },
+        {
+            "hindi": "सः",
+            "trans": "saH"
+        },
+        {
+            "hindi": "सँ",
+            "trans": "sa~"
+        },
+        {
+            "hindi": "स्",
+            "trans": "s"
+        },
+        {
+            "hindi": "&स्",
+            "trans": "&s"
+        },
+        {
+            "hindi": "हा",
+            "trans": "hA"
+        },
+        {
+            "hindi": "हि",
+            "trans": "hi"
+        },
+        {
+            "hindi": "ही",
+            "trans": "hI"
+        },
+        {
+            "hindi": "हु",
+            "trans": "hu"
+        },
+        {
+            "hindi": "हू",
+            "trans": "hU"
+        },
+        {
+            "hindi": "हृ",
+            "trans": "hR"
+        },
+        {
+            "hindi": "हॄ",
+            "trans": "hRR"
+        },
+        {
+            "hindi": "हॢ",
+            "trans": "hlR"
+        },
+        {
+            "hindi": "हॣ",
+            "trans": "hlRR"
+        },
+        {
+            "hindi": "हॆ",
+            "trans": "hE"
+        },
+        {
+            "hindi": "हे",
+            "trans": "he"
+        },
+        {
+            "hindi": "है",
+            "trans": "hai"
+        },
+        {
+            "hindi": "हॊ",
+            "trans": "hO"
+        },
+        {
+            "hindi": "हो",
+            "trans": "ho"
+        },
+        {
+            "hindi": "हौ",
+            "trans": "hau"
+        },
+        {
+            "hindi": "हॅ",
+            "trans": "haE"
+        },
+        {
+            "hindi": "हॕ",
+            "trans": "hAE"
+        },
+        {
+            "hindi": "हॉ",
+            "trans": "haO"
+        },
+        {
+            "hindi": "हं",
+            "trans": "haM"
+        },
+        {
+            "hindi": "हः",
+            "trans": "haH"
+        },
+        {
+            "hindi": "हँ",
+            "trans": "ha~"
+        },
+        {
+            "hindi": "ह्",
+            "trans": "h"
+        },
+        {
+            "hindi": "&ह्",
+            "trans": "&h"
+        },
+        {
+            "hindi": "ऴा",
+            "trans": "ZA"
+        },
+        {
+            "hindi": "ऴि",
+            "trans": "Zi"
+        },
+        {
+            "hindi": "ऴी",
+            "trans": "ZI"
+        },
+        {
+            "hindi": "ऴु",
+            "trans": "Zu"
+        },
+        {
+            "hindi": "ऴू",
+            "trans": "ZU"
+        },
+        {
+            "hindi": "ऴृ",
+            "trans": "ZR"
+        },
+        {
+            "hindi": "ऴॄ",
+            "trans": "ZRR"
+        },
+        {
+            "hindi": "ऴॢ",
+            "trans": "ZlR"
+        },
+        {
+            "hindi": "ऴॣ",
+            "trans": "ZlRR"
+        },
+        {
+            "hindi": "ऴॆ",
+            "trans": "ZE"
+        },
+        {
+            "hindi": "ऴे",
+            "trans": "Ze"
+        },
+        {
+            "hindi": "ऴै",
+            "trans": "Zai"
+        },
+        {
+            "hindi": "ऴॊ",
+            "trans": "ZO"
+        },
+        {
+            "hindi": "ऴो",
+            "trans": "Zo"
+        },
+        {
+            "hindi": "ऴौ",
+            "trans": "Zau"
+        },
+        {
+            "hindi": "ऴॅ",
+            "trans": "ZaE"
+        },
+        {
+            "hindi": "ऴॕ",
+            "trans": "ZAE"
+        },
+        {
+            "hindi": "ऴॉ",
+            "trans": "ZaO"
+        },
+        {
+            "hindi": "ऴं",
+            "trans": "ZaM"
+        },
+        {
+            "hindi": "ऴः",
+            "trans": "ZaH"
+        },
+        {
+            "hindi": "ऴँ",
+            "trans": "Za~"
+        },
+        {
+            "hindi": "ऴ्",
+            "trans": "Z"
+        },
+        {
+            "hindi": "&ऴ्",
+            "trans": "&Z"
+        },
+        {
+            "hindi": "ळा",
+            "trans": "LA"
+        },
+        {
+            "hindi": "ळि",
+            "trans": "Li"
+        },
+        {
+            "hindi": "ळी",
+            "trans": "LI"
+        },
+        {
+            "hindi": "ळु",
+            "trans": "Lu"
+        },
+        {
+            "hindi": "ळू",
+            "trans": "LU"
+        },
+        {
+            "hindi": "ळृ",
+            "trans": "LR"
+        },
+        {
+            "hindi": "ळॄ",
+            "trans": "LRR"
+        },
+        {
+            "hindi": "ळॢ",
+            "trans": "LlR"
+        },
+        {
+            "hindi": "ळॣ",
+            "trans": "LlRR"
+        },
+        {
+            "hindi": "ळॆ",
+            "trans": "LE"
+        },
+        {
+            "hindi": "ळे",
+            "trans": "Le"
+        },
+        {
+            "hindi": "ळै",
+            "trans": "Lai"
+        },
+        {
+            "hindi": "ळॊ",
+            "trans": "LO"
+        },
+        {
+            "hindi": "ळो",
+            "trans": "Lo"
+        },
+        {
+            "hindi": "ळौ",
+            "trans": "Lau"
+        },
+        {
+            "hindi": "ळॅ",
+            "trans": "LaE"
+        },
+        {
+            "hindi": "ळॕ",
+            "trans": "LAE"
+        },
+        {
+            "hindi": "ळॉ",
+            "trans": "LaO"
+        },
+        {
+            "hindi": "ळं",
+            "trans": "LaM"
+        },
+        {
+            "hindi": "ळः",
+            "trans": "LaH"
+        },
+        {
+            "hindi": "ळँ",
+            "trans": "La~"
+        },
+        {
+            "hindi": "ळ्",
+            "trans": "L"
+        },
+        {
+            "hindi": "&ळ्",
+            "trans": "&L"
+        },
+        {
+            "hindi": "ऱा",
+            "trans": "r2A"
+        },
+        {
+            "hindi": "ऱि",
+            "trans": "r2i"
+        },
+        {
+            "hindi": "ऱी",
+            "trans": "r2I"
+        },
+        {
+            "hindi": "ऱु",
+            "trans": "r2u"
+        },
+        {
+            "hindi": "ऱू",
+            "trans": "r2U"
+        },
+        {
+            "hindi": "ऱृ",
+            "trans": "r2R"
+        },
+        {
+            "hindi": "ऱॄ",
+            "trans": "r2RR"
+        },
+        {
+            "hindi": "ऱॢ",
+            "trans": "r2lR"
+        },
+        {
+            "hindi": "ऱॣ",
+            "trans": "r2lRR"
+        },
+        {
+            "hindi": "ऱॆ",
+            "trans": "r2E"
+        },
+        {
+            "hindi": "ऱे",
+            "trans": "r2e"
+        },
+        {
+            "hindi": "ऱै",
+            "trans": "r2ai"
+        },
+        {
+            "hindi": "ऱॊ",
+            "trans": "r2O"
+        },
+        {
+            "hindi": "ऱो",
+            "trans": "r2o"
+        },
+        {
+            "hindi": "ऱौ",
+            "trans": "r2au"
+        },
+        {
+            "hindi": "ऱॅ",
+            "trans": "r2aE"
+        },
+        {
+            "hindi": "ऱॕ",
+            "trans": "r2AE"
+        },
+        {
+            "hindi": "ऱॉ",
+            "trans": "r2aO"
+        },
+        {
+            "hindi": "ऱं",
+            "trans": "r2aM"
+        },
+        {
+            "hindi": "ऱः",
+            "trans": "r2aH"
+        },
+        {
+            "hindi": "ऱँ",
+            "trans": "r2a~"
+        },
+        {
+            "hindi": "ऱ्‌",
+            "trans": "r2"
+        },
+        {
+            "hindi": "&ऱ्‌",
+            "trans": "&r2"
+        },
+        {
+            "hindi": "ऩा",
+            "trans": "n2A"
+        },
+        {
+            "hindi": "ऩि",
+            "trans": "n2i"
+        },
+        {
+            "hindi": "ऩी",
+            "trans": "n2I"
+        },
+        {
+            "hindi": "ऩु",
+            "trans": "n2u"
+        },
+        {
+            "hindi": "ऩू",
+            "trans": "n2U"
+        },
+        {
+            "hindi": "ऩृ",
+            "trans": "n2R"
+        },
+        {
+            "hindi": "ऩॄ",
+            "trans": "n2RR"
+        },
+        {
+            "hindi": "ऩॢ",
+            "trans": "n2lR"
+        },
+        {
+            "hindi": "ऩॣ",
+            "trans": "n2lRR"
+        },
+        {
+            "hindi": "ऩॆ",
+            "trans": "n2E"
+        },
+        {
+            "hindi": "ऩे",
+            "trans": "n2e"
+        },
+        {
+            "hindi": "ऩै",
+            "trans": "n2ai"
+        },
+        {
+            "hindi": "ऩॊ",
+            "trans": "n2O"
+        },
+        {
+            "hindi": "ऩो",
+            "trans": "n2o"
+        },
+        {
+            "hindi": "ऩौ",
+            "trans": "n2au"
+        },
+        {
+            "hindi": "ऩॅ",
+            "trans": "n2aE"
+        },
+        {
+            "hindi": "ऩॕ",
+            "trans": "n2AE"
+        },
+        {
+            "hindi": "ऩॉ",
+            "trans": "n2aO"
+        },
+        {
+            "hindi": "ऩं",
+            "trans": "n2aM"
+        },
+        {
+            "hindi": "ऩः",
+            "trans": "n2aH"
+        },
+        {
+            "hindi": "ऩँ",
+            "trans": "n2a~"
+        },
+        {
+            "hindi": "ऩ्",
+            "trans": "n2"
+        },
+        {
+            "hindi": "&ऩ्",
+            "trans": "&n2"
+        },
+        {
+            "hindi": "क़ा",
+            "trans": "qA"
+        },
+        {
+            "hindi": "क़ि",
+            "trans": "qi"
+        },
+        {
+            "hindi": "क़ी",
+            "trans": "qI"
+        },
+        {
+            "hindi": "क़ु",
+            "trans": "qu"
+        },
+        {
+            "hindi": "क़ू",
+            "trans": "qU"
+        },
+        {
+            "hindi": "क़ृ",
+            "trans": "qR"
+        },
+        {
+            "hindi": "क़ॄ",
+            "trans": "qRR"
+        },
+        {
+            "hindi": "क़ॢ",
+            "trans": "qlR"
+        },
+        {
+            "hindi": "क़ॣ",
+            "trans": "qlRR"
+        },
+        {
+            "hindi": "क़ॆ",
+            "trans": "qE"
+        },
+        {
+            "hindi": "क़े",
+            "trans": "qe"
+        },
+        {
+            "hindi": "क़ै",
+            "trans": "qai"
+        },
+        {
+            "hindi": "क़ॊ",
+            "trans": "qO"
+        },
+        {
+            "hindi": "क़ो",
+            "trans": "qo"
+        },
+        {
+            "hindi": "क़ौ",
+            "trans": "qau"
+        },
+        {
+            "hindi": "क़ॅ",
+            "trans": "qaE"
+        },
+        {
+            "hindi": "क़ॕ",
+            "trans": "qAE"
+        },
+        {
+            "hindi": "क़ॉ",
+            "trans": "qaO"
+        },
+        {
+            "hindi": "क़ं",
+            "trans": "qaM"
+        },
+        {
+            "hindi": "क़ः",
+            "trans": "qaH"
+        },
+        {
+            "hindi": "क़ँ",
+            "trans": "qa~"
+        },
+        {
+            "hindi": "क़्",
+            "trans": "q"
+        },
+        {
+            "hindi": "&क़्",
+            "trans": "&q"
+        },
+        {
+            "hindi": "ख़ा",
+            "trans": "qhA"
+        },
+        {
+            "hindi": "ख़ि",
+            "trans": "qhi"
+        },
+        {
+            "hindi": "ख़ी",
+            "trans": "qhI"
+        },
+        {
+            "hindi": "ख़ु",
+            "trans": "qhu"
+        },
+        {
+            "hindi": "ख़ू",
+            "trans": "qhU"
+        },
+        {
+            "hindi": "ख़ृ",
+            "trans": "qhR"
+        },
+        {
+            "hindi": "ख़ॄ",
+            "trans": "qhRR"
+        },
+        {
+            "hindi": "ख़ॢ",
+            "trans": "qhlR"
+        },
+        {
+            "hindi": "ख़ॣ",
+            "trans": "qhlRR"
+        },
+        {
+            "hindi": "ख़ॆ",
+            "trans": "qhE"
+        },
+        {
+            "hindi": "ख़े",
+            "trans": "qhe"
+        },
+        {
+            "hindi": "ख़ै",
+            "trans": "qhai"
+        },
+        {
+            "hindi": "ख़ॊ",
+            "trans": "qhO"
+        },
+        {
+            "hindi": "ख़ो",
+            "trans": "qho"
+        },
+        {
+            "hindi": "ख़ौ",
+            "trans": "qhau"
+        },
+        {
+            "hindi": "ख़ॅ",
+            "trans": "qhaE"
+        },
+        {
+            "hindi": "ख़ॕ",
+            "trans": "qhAE"
+        },
+        {
+            "hindi": "ख़ॉ",
+            "trans": "qhaO"
+        },
+        {
+            "hindi": "ख़ं",
+            "trans": "qhaM"
+        },
+        {
+            "hindi": "ख़ः",
+            "trans": "qhaH"
+        },
+        {
+            "hindi": "ख़ँ",
+            "trans": "qha~"
+        },
+        {
+            "hindi": "ख़्",
+            "trans": "qh"
+        },
+        {
+            "hindi": "&ख़्",
+            "trans": "&qh"
+        },
+        {
+            "hindi": "ग़ा",
+            "trans": "g2A"
+        },
+        {
+            "hindi": "ग़ि",
+            "trans": "g2i"
+        },
+        {
+            "hindi": "ग़ी",
+            "trans": "g2I"
+        },
+        {
+            "hindi": "ग़ु",
+            "trans": "g2u"
+        },
+        {
+            "hindi": "ग़ू",
+            "trans": "g2U"
+        },
+        {
+            "hindi": "ग़ृ",
+            "trans": "g2R"
+        },
+        {
+            "hindi": "ग़ॄ",
+            "trans": "g2RR"
+        },
+        {
+            "hindi": "ग़ॢ",
+            "trans": "g2lR"
+        },
+        {
+            "hindi": "ग़ॣ",
+            "trans": "g2lRR"
+        },
+        {
+            "hindi": "ग़ॆ",
+            "trans": "g2E"
+        },
+        {
+            "hindi": "ग़े",
+            "trans": "g2e"
+        },
+        {
+            "hindi": "ग़ै",
+            "trans": "g2ai"
+        },
+        {
+            "hindi": "ग़ॊ",
+            "trans": "g2O"
+        },
+        {
+            "hindi": "ग़ो",
+            "trans": "g2o"
+        },
+        {
+            "hindi": "ग़ौ",
+            "trans": "g2au"
+        },
+        {
+            "hindi": "ग़ॅ",
+            "trans": "g2aE"
+        },
+        {
+            "hindi": "ग़ॕ",
+            "trans": "g2AE"
+        },
+        {
+            "hindi": "ग़ॉ",
+            "trans": "g2aO"
+        },
+        {
+            "hindi": "ग़ं",
+            "trans": "g2aM"
+        },
+        {
+            "hindi": "ग़ः",
+            "trans": "g2aH"
+        },
+        {
+            "hindi": "ग़ँ",
+            "trans": "g2a~"
+        },
+        {
+            "hindi": "ग़्",
+            "trans": "g2"
+        },
+        {
+            "hindi": "&ग़्",
+            "trans": "&g2"
+        },
+        {
+            "hindi": "ज़ा",
+            "trans": "z2A"
+        },
+        {
+            "hindi": "ज़ि",
+            "trans": "z2i"
+        },
+        {
+            "hindi": "ज़ी",
+            "trans": "z2I"
+        },
+        {
+            "hindi": "ज़ु",
+            "trans": "z2u"
+        },
+        {
+            "hindi": "ज़ू",
+            "trans": "z2U"
+        },
+        {
+            "hindi": "ज़ृ",
+            "trans": "z2R"
+        },
+        {
+            "hindi": "ज़ॄ",
+            "trans": "z2RR"
+        },
+        {
+            "hindi": "ज़ॢ",
+            "trans": "z2lR"
+        },
+        {
+            "hindi": "ज़ॣ",
+            "trans": "z2lRR"
+        },
+        {
+            "hindi": "ज़ॆ",
+            "trans": "z2E"
+        },
+        {
+            "hindi": "ज़े",
+            "trans": "z2e"
+        },
+        {
+            "hindi": "ज़ै",
+            "trans": "z2ai"
+        },
+        {
+            "hindi": "ज़ॊ",
+            "trans": "z2O"
+        },
+        {
+            "hindi": "ज़ो",
+            "trans": "z2o"
+        },
+        {
+            "hindi": "ज़ौ",
+            "trans": "z2au"
+        },
+        {
+            "hindi": "ज़ॅ",
+            "trans": "z2aE"
+        },
+        {
+            "hindi": "ज़ॕ",
+            "trans": "z2AE"
+        },
+        {
+            "hindi": "ज़ॉ",
+            "trans": "z2aO"
+        },
+        {
+            "hindi": "ज़ं",
+            "trans": "z2aM"
+        },
+        {
+            "hindi": "ज़ः",
+            "trans": "z2aH"
+        },
+        {
+            "hindi": "ज़ँ",
+            "trans": "z2a~"
+        },
+        {
+            "hindi": "ज़्",
+            "trans": "z2"
+        },
+        {
+            "hindi": "&ज़्",
+            "trans": "&z2"
+        },
+        {
+            "hindi": "ड़ा",
+            "trans": "r3A"
+        },
+        {
+            "hindi": "ड़ि",
+            "trans": "r3i"
+        },
+        {
+            "hindi": "ड़ी",
+            "trans": "r3I"
+        },
+        {
+            "hindi": "ड़ु",
+            "trans": "r3u"
+        },
+        {
+            "hindi": "ड़ू",
+            "trans": "r3U"
+        },
+        {
+            "hindi": "ड़ृ",
+            "trans": "r3R"
+        },
+        {
+            "hindi": "ड़ॄ",
+            "trans": "r3RR"
+        },
+        {
+            "hindi": "ड़ॢ",
+            "trans": "r3lR"
+        },
+        {
+            "hindi": "ड़ॣ",
+            "trans": "r3lRR"
+        },
+        {
+            "hindi": "ड़ॆ",
+            "trans": "r3E"
+        },
+        {
+            "hindi": "ड़े",
+            "trans": "r3e"
+        },
+        {
+            "hindi": "ड़ै",
+            "trans": "r3ai"
+        },
+        {
+            "hindi": "ड़ॊ",
+            "trans": "r3O"
+        },
+        {
+            "hindi": "ड़ो",
+            "trans": "r3o"
+        },
+        {
+            "hindi": "ड़ौ",
+            "trans": "r3au"
+        },
+        {
+            "hindi": "ड़ॅ",
+            "trans": "r3aE"
+        },
+        {
+            "hindi": "ड़ॕ",
+            "trans": "r3AE"
+        },
+        {
+            "hindi": "ड़ॉ",
+            "trans": "r3aO"
+        },
+        {
+            "hindi": "ड़ं",
+            "trans": "r3aM"
+        },
+        {
+            "hindi": "ड़ः",
+            "trans": "r3aH"
+        },
+        {
+            "hindi": "ड़ँ",
+            "trans": "r3a~"
+        },
+        {
+            "hindi": "ड़्",
+            "trans": "r3"
+        },
+        {
+            "hindi": "&ड़्",
+            "trans": "&r3"
+        },
+        {
+            "hindi": "ढ़ा",
+            "trans": "r3hA"
+        },
+        {
+            "hindi": "ढ़ि",
+            "trans": "r3hi"
+        },
+        {
+            "hindi": "ढ़ी",
+            "trans": "r3hI"
+        },
+        {
+            "hindi": "ढ़ु",
+            "trans": "r3hu"
+        },
+        {
+            "hindi": "ढ़ू",
+            "trans": "r3hU"
+        },
+        {
+            "hindi": "ढ़ृ",
+            "trans": "r3hR"
+        },
+        {
+            "hindi": "ढ़ॄ",
+            "trans": "r3hRR"
+        },
+        {
+            "hindi": "ढ़ॢ",
+            "trans": "r3hlR"
+        },
+        {
+            "hindi": "ढ़ॣ",
+            "trans": "r3hlRR"
+        },
+        {
+            "hindi": "ढ़ॆ",
+            "trans": "r3hE"
+        },
+        {
+            "hindi": "ढ़े",
+            "trans": "r3he"
+        },
+        {
+            "hindi": "ढ़ै",
+            "trans": "r3hai"
+        },
+        {
+            "hindi": "ढ़ॊ",
+            "trans": "r3hO"
+        },
+        {
+            "hindi": "ढ़ो",
+            "trans": "r3ho"
+        },
+        {
+            "hindi": "ढ़ौ",
+            "trans": "r3hau"
+        },
+        {
+            "hindi": "ढ़ॅ",
+            "trans": "r3haE"
+        },
+        {
+            "hindi": "ढ़ॕ",
+            "trans": "r3hAE"
+        },
+        {
+            "hindi": "ढ़ॉ",
+            "trans": "r3haO"
+        },
+        {
+            "hindi": "ढ़ं",
+            "trans": "r3haM"
+        },
+        {
+            "hindi": "ढ़ः",
+            "trans": "r3haH"
+        },
+        {
+            "hindi": "ढ़ँ",
+            "trans": "r3ha~"
+        },
+        {
+            "hindi": "ढ़्",
+            "trans": "r3h"
+        },
+        {
+            "hindi": "&ढ़्",
+            "trans": "&r3h"
+        },
+        {
+            "hindi": "फ़ा",
+            "trans": "fA"
+        },
+        {
+            "hindi": "फ़ि",
+            "trans": "fi"
+        },
+        {
+            "hindi": "फ़ी",
+            "trans": "fI"
+        },
+        {
+            "hindi": "फ़ु",
+            "trans": "fu"
+        },
+        {
+            "hindi": "फ़ू",
+            "trans": "fU"
+        },
+        {
+            "hindi": "फ़ृ",
+            "trans": "fR"
+        },
+        {
+            "hindi": "फ़ॄ",
+            "trans": "fRR"
+        },
+        {
+            "hindi": "फ़ॢ",
+            "trans": "flR"
+        },
+        {
+            "hindi": "फ़ॣ",
+            "trans": "flRR"
+        },
+        {
+            "hindi": "फ़ॆ",
+            "trans": "fE"
+        },
+        {
+            "hindi": "फ़े",
+            "trans": "fe"
+        },
+        {
+            "hindi": "फ़ै",
+            "trans": "fai"
+        },
+        {
+            "hindi": "फ़ॊ",
+            "trans": "fO"
+        },
+        {
+            "hindi": "फ़ो",
+            "trans": "fo"
+        },
+        {
+            "hindi": "फ़ौ",
+            "trans": "fau"
+        },
+        {
+            "hindi": "फ़ॅ",
+            "trans": "faE"
+        },
+        {
+            "hindi": "फ़ॕ",
+            "trans": "fAE"
+        },
+        {
+            "hindi": "फ़ॉ",
+            "trans": "faO"
+        },
+        {
+            "hindi": "फ़ं",
+            "trans": "faM"
+        },
+        {
+            "hindi": "फ़ः",
+            "trans": "faH"
+        },
+        {
+            "hindi": "फ़ँ",
+            "trans": "fa~"
+        },
+        {
+            "hindi": "फ़्",
+            "trans": "f"
+        },
+        {
+            "hindi": "&फ़्",
+            "trans": "&f"
+        },
+        {
+            "hindi": "य़ा",
+            "trans": "YA"
+        },
+        {
+            "hindi": "य़ि",
+            "trans": "Yi"
+        },
+        {
+            "hindi": "य़ी",
+            "trans": "YI"
+        },
+        {
+            "hindi": "य़ु",
+            "trans": "Yu"
+        },
+        {
+            "hindi": "य़ू",
+            "trans": "YU"
+        },
+        {
+            "hindi": "य़ृ",
+            "trans": "YR"
+        },
+        {
+            "hindi": "य़ॄ",
+            "trans": "YRR"
+        },
+        {
+            "hindi": "य़ॢ",
+            "trans": "YlR"
+        },
+        {
+            "hindi": "य़ॣ",
+            "trans": "YlRR"
+        },
+        {
+            "hindi": "य़ॆ",
+            "trans": "YE"
+        },
+        {
+            "hindi": "य़े",
+            "trans": "Ye"
+        },
+        {
+            "hindi": "य़ै",
+            "trans": "Yai"
+        },
+        {
+            "hindi": "य़ॊ",
+            "trans": "YO"
+        },
+        {
+            "hindi": "य़ो",
+            "trans": "Yo"
+        },
+        {
+            "hindi": "य़ौ",
+            "trans": "Yau"
+        },
+        {
+            "hindi": "य़ॅ",
+            "trans": "YaE"
+        },
+        {
+            "hindi": "य़ॕ",
+            "trans": "YAE"
+        },
+        {
+            "hindi": "य़ॉ",
+            "trans": "YaO"
+        },
+        {
+            "hindi": "य़ं",
+            "trans": "YaM"
+        },
+        {
+            "hindi": "य़ः",
+            "trans": "YaH"
+        },
+        {
+            "hindi": "य़ँ",
+            "trans": "Ya~"
+        },
+        {
+            "hindi": "य़्",
+            "trans": "Y"
+        },
+        {
+            "hindi": "&य़्",
+            "trans": "&Y"
+        }
+    ]
+}
